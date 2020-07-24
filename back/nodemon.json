@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "Munditoro",
+        "MONGO_PASSWORD": "munditoro",
+        "MONGO_DB": "Todos"
+    }
+}
